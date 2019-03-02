@@ -17,4 +17,4 @@ Video Panorama using OpenCV
 
 ## Usage:-  
 
-1. python3 video_panorama.py  
+<code> python3 video_panorama.py  </code>
