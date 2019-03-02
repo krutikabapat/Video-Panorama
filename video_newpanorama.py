@@ -70,7 +70,7 @@ for i in range(n_frames - 2):
 		index = index +1
 
 #cv2.imwrite('resultant_stitched_panorama_' + str(i) + ".jpg",dst)
-cv2.imwrite('resultant_stitched_panorama_',dst)
+cv2.imwrite('resultant_stitched_panorama_.jpg',dst)
 #cv2.imshow("img1", img1)
 cv2.imshow("dst", dst)
 cv2.waitKey(0)
